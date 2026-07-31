@@ -1,0 +1,6 @@
+{
+  "name": "DigitalHausa",
+  "description": "An interactive computer and web programming learning platform in Hausa and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
